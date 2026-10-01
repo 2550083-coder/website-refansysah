@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(233, 235, 236);
+    font-family: Arial;
+    text-align: center;
+}
+
+.judul {
+    color: rgb(252, 5, 5);
+}
+
+.nama {
+    color: rgb(255, 0, 4);
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+}
+
+.subjudul {
+    color: rgb(242, 3, 3);
+}
+
+.teks {
+    font-size: 20px;
+}
+
+.hobi {
+    text-align: left;
+    display: inline-block;
+}
+
+.footer {
+    color: rgb(245, 4, 4);
+    font-size: 20px;
+}
